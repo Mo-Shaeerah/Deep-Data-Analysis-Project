@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-Data Analysis &amp; EDA On Data Science Job Salaries
+Data Analysis & EDA On Data Science Jobs Salaries
